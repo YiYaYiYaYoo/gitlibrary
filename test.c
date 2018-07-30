@@ -5,5 +5,6 @@ int main(void)
 	printf("Hello World!\n");
 	printf("Hello Git\n");
 	printf("Hello Boy\n");
+	ptintf("Tset\n");
 	return 0;
 }
