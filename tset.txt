@@ -1,0 +1,2 @@
+test.txt is in one branch
+Now I do some tset with git
